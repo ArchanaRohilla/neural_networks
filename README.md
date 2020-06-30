@@ -18,11 +18,11 @@ number of input variables(12) as per the rule of thumb.To improve it further we 
 
 ### Model-9
 
-![alt text](JPGS/ProcessFlow.png)
+![alt text](https://github.com/ArchanaRohilla/neural_networks/blob/master/Images/Model-9.png)
 
 ### Results
 
-![alt text](JPGS/ProcessFlow.png)
+![alt text](https://github.com/ArchanaRohilla/neural_networks/blob/master/Images/Model9_Result.png)
 
 - Random forest classifiers can be used to solve this classification problem. The random forest classifier is capable to train on the 
 large dataset and predict values in seconds. It is also capable to achieve comparable predictive accuracy on large tabular data with 
