@@ -1,4 +1,4 @@
-# Neural Networks
+# Neural Networks and Deep Learning Models
 
 ## Project Overview
 In this project, a deep learning model is designed which is able to predict the success of a venture paid by a Non-profit foundation. 
@@ -8,7 +8,7 @@ will receive any future funding from Alphabet Soup.
 ## Software
 Python, Pandas, Matplotlib, Scikit-learn, TensorFlow
 	
-## Summary of Analysis:- 
+## Summary of Analysis
 
 - The data was imported, analyzed, cleaned, and preprocessed (bucketed, encoded and scaled) before fitting into the deep learning 
 model. The final model (Model-9) consists of an input layer, two hidden layers and an output layer. First hidden layer consists of 
