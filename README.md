@@ -11,7 +11,7 @@ In this project, a deep learning model is designed which is able to predict the 
 This model will be used to determine the future decisions of the company. Only those company projects which are likely to be a success 
 will receive any future funding from the foundation.
 
-## Software
+## Tools
 Python, Pandas, Matplotlib, Scikit-learn, TensorFlow
 	
 ## Summary of Analysis
